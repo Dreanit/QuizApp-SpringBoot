@@ -1,6 +1,6 @@
 package com.dreanit.quizapp.service;
 
-import com.dreanit.quizapp.QuestionDao;
+import com.dreanit.quizapp.dao.QuestionDao;
 import com.dreanit.quizapp.model.Question;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
